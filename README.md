@@ -8,5 +8,5 @@ You need extra hardware & software for getting this project running. This is jus
 <img align="left" src="https://user-images.githubusercontent.com/51674496/134730092-3f417d4a-a545-4e44-9ec1-a117515dd69e.png" width="200" height="450">
 <img align="left" src="https://user-images.githubusercontent.com/51674496/134730095-f8802ffa-faa8-47f6-ad56-aaa6f56f7cbe.png" width="200" height="450">
 <img align="left" src="https://user-images.githubusercontent.com/51674496/134730096-18af494c-6fa3-432b-ae0b-adbb8f2a095f.png" width="200" height="450">
-<img align="left" src="https://user-images.githubusercontent.com/51674496/134730097-c7504563-4a74-4d3a-9f6d-b06a6233bd02.png" width="200" height="450">
+<img align="right" src="https://user-images.githubusercontent.com/51674496/134730097-c7504563-4a74-4d3a-9f6d-b06a6233bd02.png" width="200" height="450">
 
